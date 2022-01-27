@@ -24,7 +24,7 @@ with io.open(filepath, encoding='utf-8') as metafile:
 
 
 setup(
-    name = 'hex',
+    name = 'hex2',
     version = meta['version'],
     py_modules = ['hex'],
     entry_points = {
