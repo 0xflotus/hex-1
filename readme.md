@@ -1,12 +1,18 @@
 
-# Hex
+# Hex2
 
-Hex is a simple hexdump utility implemented in Python.
+Hex2 is a fork of [Hex](https://github.com/dmulholl/hex).
+
+Hex2 is a simple hexdump utility implemented in Python.
 
 <p align="center">
-    <img src="hex.png" width="600px">
+    <img width="800" src="https://user-images.githubusercontent.com/26602940/151343110-5f87c535-6069-4dcf-9a28-bb5dd89fceec.png">
 </p>
 
-See the [documentation] for details.
+## Install
 
-[documentation]: http://www.dmulholl.com/dev/hex.html
+`pip install string-color`
+
+## Usage
+
+`python3 -m hex`
