@@ -32,8 +32,8 @@ setup(
             'hex = hex:main',
         ],
     },
-    author = 'Darren Mulholland',
-    url = 'https://github.com/dmulholl/hex',
+    author = ['Darren Mulholland', '0xflotus'],
+    url = 'https://github.com/0xflotus/hex2',
     license = 'Public Domain',
     description = (
         'Hexdump command line utility.'
