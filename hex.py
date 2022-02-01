@@ -9,8 +9,6 @@ import signal
 import sys
 import shutil
 
-from stringcolor import *
-
 # Application version number.
 __version__ = "2.3.0"
 
